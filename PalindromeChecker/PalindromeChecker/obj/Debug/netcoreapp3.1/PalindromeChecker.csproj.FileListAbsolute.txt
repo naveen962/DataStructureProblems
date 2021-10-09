@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.exe
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.deps.json
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.json
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\INDIA\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.genruntimeconfig.cache
