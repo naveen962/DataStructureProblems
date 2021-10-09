@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.exe
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.deps.json
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.runtimeconfig.json
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.dll
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\bin\Debug\netcoreapp3.1\PrimeNumber2D.pdb
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.dll
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.pdb
+C:\Users\INDIA\source\repos\PrimeNumber2D\PrimeNumber2D\obj\Debug\netcoreapp3.1\PrimeNumber2D.genruntimeconfig.cache
